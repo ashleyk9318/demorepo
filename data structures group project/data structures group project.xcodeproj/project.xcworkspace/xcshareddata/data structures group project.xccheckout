@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8B78213-30B4-45DD-B422-0CBE9E054A37</string>
+	<key>IDESourceControlProjectName</key>
+	<string>data structures group project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E7CB874D97B310EA6D29C75860B0D72C5777E0F8</key>
+		<string>https://github.com/funjon/demorepo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>data structures group project/data structures group project.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E7CB874D97B310EA6D29C75860B0D72C5777E0F8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/funjon/demorepo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E7CB874D97B310EA6D29C75860B0D72C5777E0F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E7CB874D97B310EA6D29C75860B0D72C5777E0F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>demorepo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
