@@ -1,0 +1,4 @@
+demorepo
+========
+
+Demonstration repository
